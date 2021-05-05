@@ -1,0 +1,83 @@
+body {
+    background-color: #7CD2DE;
+}
+
+#space {
+    width: 100%;
+    height: 15px;
+}
+
+#welcome {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    color: #0C5A76;
+}
+
+#container {
+    text-align: center;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #0C5A76;
+    font-size: 35px;
+}
+
+#quoteDisplay {
+    font-family: monospace;
+    width:75%;
+	background: #fff;
+	padding: 100px;
+	margin: 10px auto;
+	text-align: center;
+    height: 250px;
+    font-size: 35px;
+    font-style: bold;
+    border-style: groove;
+    border-radius: 10px;
+    border-color: #0C5A76;
+}
+
+#buttonContainer{
+	width: 100%;
+	text-align: center;
+    
+}
+
+#quoteButton {
+    width: 200px;
+    height: 50px;
+	font-family: sans-serif;
+	font-weight: bold;
+	padding: 5px;
+	text-align: center;
+    font-size: 20px;
+    color: #0C5A76;
+    border-radius: 20px;
+    border-color: #0C5A76; 
+    border-style: solid;
+}
+
+#quoteButton:hover {
+    cursor: pointer;
+    background: #0C5A76;
+    color: White;
+}
+
+#quoteButton:active {
+    cursor: pointer;
+}
+
+#Michael {
+    font-family: sans-serif;
+    font-style: italic;
+    color: #0C5A76;
+    font-size: 25px;
+    margin: -50px;
+}
+
+#nameContainer {
+    padding-bottom: 50px;
+}
